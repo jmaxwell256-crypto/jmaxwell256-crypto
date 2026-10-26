@@ -1,6 +1,6 @@
 ## James Maxwell
 
-Product lead with a decade in digital marketing, specialising in Google Ads. I find where AI helps a team, then build it with Claude Code by directing AI coding agents. We set the data, schemas and plan first.
+Product lead with a decade in digital marketing, specialising in Google Ads. I find where AI helps a team, then build it with Claude Code by directing AI coding agents. I set the data, schemas and plan first.
 
 My code repositories are private. This page shows what they do and where to see them live.
 
