@@ -9,7 +9,7 @@ My code repositories are private. This page shows what they do and where to see 
 **[Stablebet](https://stablebet.co.uk)**, horse racing content site, co-owned 50/50 (since March 2026)
 - A machine learning race model (XGBoost and LightGBM) that has predicted over 4,500 races live since June 2026, with every result public, losses included.
 - An AI Lab that tests popular betting systems and reports the losing ones as losses, and a Silicon Tipster League where leading AI models tip live races.
-- Over 1,300 articles, a free horse tracker and Stable Manager, a browser game for running a racing stable.
+- Over 1,300 articles, betting calculators, a free horse tracker and Stable Manager, a browser game for running a racing stable.
 - Daily race content published automatically through a code gate that blocks failing posts.
 
 **[Teatime AI](https://teatimeyorkshire.co.uk)**, staff app and website for a local café (since March 2026)
