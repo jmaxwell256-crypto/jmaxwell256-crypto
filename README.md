@@ -23,7 +23,7 @@ My code repositories are private. This page shows what they do and where to see 
 - Parents who can't attend follow match days live.
 - A children's Academy of 550 pages and 2,330 quiz questions, plus football games.
 
-**At work **
+**At work**
 - A custom CRM our business development team kept instead of HubSpot.
 - An automated blog system that matched stories from APIs and feeds to templates, with proof checks and live product data.
 - A feed-grading tool that scores product attributes for quality by category, and a PPC knowledge vault in Obsidian and Notion.
